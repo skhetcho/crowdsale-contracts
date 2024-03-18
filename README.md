@@ -1,2 +1,2 @@
-# voton-crowdsale
-Repository including all the crowdsale smart contracts necessary for Voton's V1 crowdsale token.
+# crowdsale-contracts
+Repository including all the crowdsale smart contracts necessary for a V1 crowdsale token.
